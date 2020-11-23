@@ -34,7 +34,7 @@ menu:
 #    - /archives
 #    - icon-container
   关于:
-    - /about.html
+    - /2020/11/23/about/
     - icon-info-circle
 widgets:
 - search
@@ -67,7 +67,7 @@ analytics: # 统计系统，目前支持 Google analytics.js 统计、Google Tag
   baidu_site_id: #<ID>
   gtm_container_id: #<ID>
 
-comment: gitalk # 评论框，目前支持 gitalk,gitment,valine,disqus,disqusjs,changyan,livere,DiscussBot
+comment: valine # 评论框，目前支持 gitalk,gitment,valine,disqus,disqusjs,changyan,livere,DiscussBot
 
 gitalk:
   admin: nexmoe # 拥有对该repo进行操作的 GitHub username
@@ -83,8 +83,8 @@ gitment:
   clientSecret: 43e99fa852795c9a7b3eb924b2558c64b84bbdeb # GitHub Client Secret
 
 valine: 
-  appId: <API_ID> # leancloud application app id
-  appKey: <API_Key> # leancloud application app key
+  appId: GxbLEC7Q2s296MUtBARVf6fi-gzGzoHsz # leancloud application app id
+  appKey: sbycEhL8HGayzrrNOQ7GiyEp # leancloud application app key
 
 disqus:
   shortname: <shortname> # 你的 Disqus shortname
