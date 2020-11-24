@@ -129,3 +129,7 @@ widgetLink: #链接组件
   - title: <title>
     img : <img_path>
     link : <url>
+
+mathjax:
+  enable: true
+  per_page: true # 按需加载mathjax
